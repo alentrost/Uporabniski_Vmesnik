@@ -16,12 +16,12 @@ Aplikacija omogoča štetje pritiskov na gumb, prikaz trenutnega števca, ponast
 ## Zahteve
 
 - Android Studio (priporočena novejša različica)
-- Android SDK (minimum API lvl 24 ili novejši)
+- Android SDK (minimum API 24 ali novejši)
 - Java / JDK 17
 
 ## Namestitev in zagon
 
-1. Klonomirajte ali prenesite projekt.
+1. Klonirajte ali prenesite projekt.
 2. Odprite projekt v programu Android Studio.
 3. Počakajte, da se zaključi sinhronizacija Gradle.
 4. Zaženite aplikacijo na emulatorju ali povezani napravi Android.
