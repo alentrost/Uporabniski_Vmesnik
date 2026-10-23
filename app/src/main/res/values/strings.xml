@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Uporabniski_Vmesnik</string>
+    <string name="app_name">HelloConstraint</string>
+    <string name="toast_message">Hello Toast!</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_zero">Zero</string>
+    <string name="button_label_count">Count</string>
 </resources>
